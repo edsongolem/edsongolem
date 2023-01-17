@@ -2,6 +2,7 @@
 
 - 🔭 Hoje eu trabalho como tecnologia e criação de conteúdo para jogos.
 - 📘 Formado em Sistemas de Informação. Estudando Pós-graduação em Projetos de Aplicativos Móveis Multiplataformas.
+- Certificação ITIL 4.
 - 📫 Contate-me no e-mail: instinctalternative@gmail.com.
 - 😄 Pronouns: ele/dele.
 - 🎮 Fun fact: Blog - http://instinctalternative.blogspot.com/.
