@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/77362284?s=400&u=d4ec1a4d0fa4375085646505c9fff6662e45c2d8&v=4">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4D03AQEgX9bfJPKQpA/profile-displayphoto-shrink_800_800/0/1664939409022?e=1679529600&v=beta&t=iNE3z_61mfv7hJmGcukPQzeb0wwVqoqkoKchem9Nay0">
 </div>
   
   ##
